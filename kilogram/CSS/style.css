@@ -7,9 +7,10 @@
     width: 100%;
     padding: 10px;
     border: 5px solid #a2a8d3;
-    font-family:'Courier New', Courier, monospace; 
+    font-family: 'Courier New', Courier, monospace;
     z-index: 99999;
 }
+
 .fixed1 {
     position: fixed;
     left: 0;
@@ -165,21 +166,58 @@
     padding: 10px;
     border: 3px solid #38598b;
 }
+
+.pic8 {
+    position: relative;
+    left: 45%;
+    top: 740px;
+    background-color: #a2a8d3;
+    color: #e7eaf6;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid #38598b;
+}
+
+.pic9 {
+    position: relative;
+    left: 45%;
+    top: 830px;
+    background-color: #a2a8d3;
+    color: #e7eaf6;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid #38598b;
+}
+
+.pic10 {
+    position: relative;
+    left: 45%;
+    top: 920px;
+    background-color: #a2a8d3;
+    color: #e7eaf6;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid #38598b;
+}
+
 a {
     color: #e7eaf6;
-    font-family:'Courier New', Courier, monospace;  
+    font-family: 'Courier New', Courier, monospace;
     font-size: 30px;
 }
 
 h1 {
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;
     margin-top: 5px;
     font-size: 18px;
     color: #113f67;
 }
 
 h6 {
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;
     margin-top: 5px;
     font-size: 18px;
     color: #113f67;
@@ -187,7 +225,7 @@ h6 {
 
 p {
     position: relative;
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 15px;
     color: #113f67;
 }
