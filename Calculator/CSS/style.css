@@ -1,0 +1,43 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(58, 64, 70);
+    width: 400px;
+    border-radius: 10px;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+.flex-container>div {
+    background-color: #cbc6c6;
+    width: 60px;
+    margin: 20px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+}
+
+.flex-container>div.screen-colors {
+    background-color: #d9eeb8;
+    width: 1000px;
+    margin: 20px;
+    text-align: right;
+    line-height: 80px;
+    font-size: 100px;
+    border-radius: 10px;
+}
+
+.flex-container>div.symbol-colors {
+    background-color: rgb(157, 199, 238);
+}
+
+.flex-container>div.equal-colors {
+    background-color: rgb(194, 70, 70);
+}
